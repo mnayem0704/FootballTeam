@@ -2,3 +2,7 @@
 Barcelona
 
 Atletico Mardrid
+
+Sevilla
+
+Real Sociedad
